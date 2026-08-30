@@ -1,6 +1,6 @@
 # E-Commerce SQL Database 🛒
 
-![Language](https://img.shields.io/badge/Language-SQL-blue)
+[![Language](https://img.shields.io/badge/Language-SQL-E38C00)](https://dev.mysql.com/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
