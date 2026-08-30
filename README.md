@@ -1,6 +1,7 @@
 # E-Commerce SQL Database 🛒
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A PostgreSQL database schema for a simple e-commerce platform, built as a portfolio project. Includes normalized tables, sales history tracking, and ready-to-use analytical queries — no ORM, no framework, just plain SQL.
 
