@@ -2,7 +2,7 @@
 
 A PostgreSQL database schema for a simple e-commerce platform, built as a portfolio project. Includes normalized tables, sales history tracking, and ready-to-use analytical queries — no ORM, no framework, just plain SQL.
 
-[![Language](https://img.shields.io/badge/Language-SQL-E38C00&logo=mysql&logoColor=black)](https://dev.mysql.com/doc/)
+[![Language](https://img.shields.io/badge/Language-SQL-E38C00?logo=mysql&logoColor=black)](https://dev.mysql.com/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
