@@ -77,7 +77,7 @@ Then try the example queries in `queries.sql`.
 
 ## ⚠️ Disclaimer
 
-This is a portfolio project meant to demonstrate schema design and query writing — not a production-ready e-commerce backend.
+This is a portfolio project meant to demonstrate schema design and query writing — not a production-ready e-commerce backend, more meant as fondazione where to start.
 
 ## 👨‍💻 Author
 
